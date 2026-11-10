@@ -1,2 +1,2 @@
 # software_workshop_mate
-APAYA
+1st Project in GitHub
